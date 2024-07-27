@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.img-user {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 450px;
+  color: #ffffff;
+  margin: 10px;
+  background-color: #ffffff33;
+  padding: 10px;
+  border: solid 1px #ffffff;
+  border-radius: 6px;
+}
+img {
+  width: 70px;
+  height: 75px;
+}
+.header {
+  text-align: center;
+}
+li {
+  list-style-type: none;
+}
